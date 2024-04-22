@@ -1,0 +1,23 @@
+{
+  "name": "word-counter-335",
+  "version": "1.0.0",
+  "description": "Word counter",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "word-counter-3355": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anas",
+  "license": "ISC",
+  "keywords": [],
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.7"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.19"
+  }
+}
